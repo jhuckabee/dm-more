@@ -1,3 +1,5 @@
+require 'extlib/assertions'
+
 module DataMapper
   module Validate
 
